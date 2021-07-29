@@ -1,0 +1,16 @@
+.resHeader,
+.logHeader {
+  background-color: #9900ff;
+  color: floralwhite; }
+
+#closeRes,
+#close {
+  color: floralwhite; }
+
+.resBody,
+.logBody {
+  background-color: #deb1f5; }
+
+.buttonRes,
+.logButton {
+  color: floralwhite; }
